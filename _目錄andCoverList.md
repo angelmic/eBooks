@@ -153,6 +153,7 @@
 |(南方家園) [哈里特．蘭姆] 香蕉戰爭與公平貿易 (2013).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(南方家園) [哈里特．蘭姆] 香蕉戰爭與公平貿易 (2013).png" width="100" height="150" />|
 |(博碩文化) R語言：數學計算、統計模型與金融大數據分析 (2016).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(博碩文化) R語言：數學計算、統計模型與金融大數據分析 (2016).png" width="100" height="150" />|
 |(博碩文化) 掌握 Hadoop 翱翔雲端 - Windoop 應用實作指南 (2013).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(博碩文化) 掌握 Hadoop 翱翔雲端 - Windoop 應用實作指南 (2013).png" width="100" height="150" />|
+|(博碩文化) 深度學習快速入門：使用TensorFlow (2017).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(博碩文化) 深度學習快速入門：使用TensorFlow (2017).png" width="100" height="150" />|
 |(博碩文化) 無瑕的程式碼：敏捷軟體開發技巧守則 (2013).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(博碩文化) 無瑕的程式碼：敏捷軟體開發技巧守則 (2013).png" width="100" height="150" />|
 |(博雅書屋) 博雅文庫 005 [袁珂] 傳說：從夏啟到秦始皇 (2012).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(博雅書屋) 博雅文庫 005 [袁珂] 傳說：從夏啟到秦始皇 (2012).png" width="100" height="150" />|
 |(印刻出版) 文學叢書 140 [霍斯陸曼．伐伐] 玉山魂 (2006).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(印刻出版) 文學叢書 140 [霍斯陸曼．伐伐] 玉山魂 (2006).png" width="100" height="150" />|
@@ -445,6 +446,7 @@
 |(悅知文化) [堀正岳、中牟田洋子、高谷宏記] 傳奇筆記本MOLESKINE：書寫個性人生的61則手帳活用術 (2012).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(悅知文化) [堀正岳、中牟田洋子、高谷宏記] 傳奇筆記本MOLESKINE：書寫個性人生的61則手帳活用術 (2012).png" width="100" height="150" />|
 |(悅知文化) [西內啟] 統計學，最強的商業武器：實踐篇 (2015).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(悅知文化) [西內啟] 統計學，最強的商業武器：實踐篇 (2015).png" width="100" height="150" />|
 |(悅知文化) Windows Azure 雲端運算開發實戰.png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(悅知文化) Windows Azure 雲端運算開發實戰.png" width="100" height="150" />|
+|(悅知文化) 笑談軟體工程 - 敏捷開發法的逆襲 (2012).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(悅知文化) 笑談軟體工程 - 敏捷開發法的逆襲 (2012).png" width="100" height="150" />|
 |(悅知文化) 黑麵的人像攝影攻略.png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(悅知文化) 黑麵的人像攝影攻略.png" width="100" height="150" />|
 |(愛米粒出版) 虛構 032 [克萊兒．傅勒] 那些無止盡的日子 (2015).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(愛米粒出版) 虛構 032 [克萊兒．傅勒] 那些無止盡的日子 (2015).png" width="100" height="150" />|
 |(慧眾文化) 超心理 8 [丹波哲郎] 靈界之旅 (1992).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(慧眾文化) 超心理 8 [丹波哲郎] 靈界之旅 (1992).png" width="100" height="150" />|
