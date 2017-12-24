@@ -24,6 +24,7 @@
 |(Apress) Learn Xcode Tools for Mac OS X and iPhone Development.png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(Apress) Learn Xcode Tools for Mac OS X and iPhone Development.png" width="100" height="150" />|
 |(Apress) Mac Programming for Absolute Beginners.png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(Apress) Mac Programming for Absolute Beginners.png" width="100" height="150" />|
 |(Apress) Pro Core Data for iOS_Data Access and Persistence Engine for iPhone, iPad, and iPod touch.png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(Apress) Pro Core Data for iOS_Data Access and Persistence Engine for iPhone, iPad, and iPod touch.png" width="100" height="150" />|
+|(Apress) Pro Design Patterns in Swift (2014).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(Apress) Pro Design Patterns in Swift (2014).png" width="100" height="150" />|
 |(Apress) Pro Git.png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(Apress) Pro Git.png" width="100" height="150" />|
 |(Apress) Pro HTML5 Programming.png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(Apress) Pro HTML5 Programming.png" width="100" height="150" />|
 |(Apress) Pro iOS Table Views.png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(Apress) Pro iOS Table Views.png" width="100" height="150" />|
@@ -41,6 +42,7 @@
 |(INK印刻出版) 文學叢書 140 [霍斯陸曼．伐伐] 玉山魂 (2006).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(INK印刻出版) 文學叢書 140 [霍斯陸曼．伐伐] 玉山魂 (2006).png" width="100" height="150" />|
 |(KKBOX) kkbox-ios-dev 2015.png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(KKBOX) kkbox-ios-dev 2015.png" width="100" height="150" />|
 |(Manning) iPhone and iPad in Action.png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(Manning) iPhone and iPad in Action.png" width="100" height="150" />|
+|(MIT Press) Introduction to Algorithms 3rd (2009).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(MIT Press) Introduction to Algorithms 3rd (2009).png" width="100" height="150" />|
 |(New Riders Press) Introducing HTML5.png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(New Riders Press) Introducing HTML5.png" width="100" height="150" />|
 |(No Starch Press) [David Thiel] iOS Application Security：The Definitive Guide for Hackers and Developers (2016).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(No Starch Press) [David Thiel] iOS Application Security：The Definitive Guide for Hackers and Developers (2016).png" width="100" height="150" />|
 |(O'REILLY) Designing Mobile Interfaces.png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(O'REILLY) Designing Mobile Interfaces.png" width="100" height="150" />|
@@ -49,9 +51,13 @@
 |(PC Shopper) 這時怎麼拍才漂亮.png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(PC Shopper) 這時怎麼拍才漂亮.png" width="100" height="150" />|
 |(PCuSER 電腦人) 如何擺出好POSE：美少女外拍動作圖解X100.png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(PCuSER 電腦人) 如何擺出好POSE：美少女外拍動作圖解X100.png" width="100" height="150" />|
 |(PCuSER 電腦人) 模特兒POSE圖解100選.png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(PCuSER 電腦人) 模特兒POSE圖解100選.png" width="100" height="150" />|
+|(Pearson ) [Mark Allen Weiss] Data Structures and Algorithm Analysis in C++ 4th ed (2014).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(Pearson ) [Mark Allen Weiss] Data Structures and Algorithm Analysis in C++ 4th ed (2014).png" width="100" height="150" />|
 |(Personal) [Ash Furrow] Leanpub.Functional Reactive Programming on iOS.2014 (2014).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(Personal) [Ash Furrow] Leanpub.Functional Reactive Programming on iOS.2014 (2014).png" width="100" height="150" />|
 |(Personal) [le kaka] Functional.Programming.inSwift (2015).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(Personal) [le kaka] Functional.Programming.inSwift (2015).png" width="100" height="150" />|
 |(Pragmatic Bookshelf) iPhone SDK Development (The Pragmatic Programmers).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(Pragmatic Bookshelf) iPhone SDK Development (The Pragmatic Programmers).png" width="100" height="150" />|
+|(Razeware ) [Marin Todorov] iOS Animations by Tutorials Third Edition：iOS 10 and Swift 3 edition (2016).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(Razeware ) [Marin Todorov] iOS Animations by Tutorials Third Edition：iOS 10 and Swift 3 edition (2016).png" width="100" height="150" />|
+|(Razeware) [Derek Selander] Advanced Apple Debugging & Reverse Engineering：Exploring Apple code through LLDB, Python and DTrace (2017).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(Razeware) [Derek Selander] Advanced Apple Debugging & Reverse Engineering：Exploring Apple code through LLDB, Python and DTrace (2017).png" width="100" height="150" />|
+|(Razeware) [Florent Pillet, Junior Bontognali] RxSwift：Reactive Programming with Swift (2017).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(Razeware) [Florent Pillet, Junior Bontognali] RxSwift：Reactive Programming with Swift (2017).png" width="100" height="150" />|
 |(Smart智富文化) [蘇松泙] 平民股神教你不蝕本投資術 (2011).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(Smart智富文化) [蘇松泙] 平民股神教你不蝕本投資術 (2011).png" width="100" height="150" />|
 |(Smart智富文化) 平民股神蘇松泙系列 2 [蘇松泙、陳淑泰] 不蝕本實戰操作 (2013).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(Smart智富文化) 平民股神蘇松泙系列 2 [蘇松泙、陳淑泰] 不蝕本實戰操作 (2013).png" width="100" height="150" />|
 |(Springer) Computer Science：The Hardware Software and Heart of It.png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(Springer) Computer Science：The Hardware Software and Heart of It.png" width="100" height="150" />|
@@ -100,6 +106,8 @@
 |(世茂出版社) 銷售顧問金典 79 [柳澤賢仁] 看懂現金流，讓你提早財富自由：老闆不說的資產配置秘密，持續成長的公司都在這樣做！ (2014).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(世茂出版社) 銷售顧問金典 79 [柳澤賢仁] 看懂現金流，讓你提早財富自由：老闆不說的資產配置秘密，持續成長的公司都在這樣做！ (2014).png" width="100" height="150" />|
 |(中國知的出版社) 智信人生 001 [小泉吉宏] 豕與自以為是的豬：心的駕馭手冊 (1998).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(中國知的出版社) 智信人生 001 [小泉吉宏] 豕與自以為是的豬：心的駕馭手冊 (1998).png" width="100" height="150" />|
 |(中國知的出版社) 智信人生 003 [小泉吉宏] 保持自然就好：豕與自以為是的豬 2 (1999).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(中國知的出版社) 智信人生 003 [小泉吉宏] 保持自然就好：豕與自以為是的豬 2 (1999).png" width="100" height="150" />|
+|(主婦の友社)[山崎功] ファミコンコンプリートガイド (2016).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(主婦の友社)[山崎功] ファミコンコンプリートガイド (2016).png" width="100" height="150" />|
+|(久周文化) 真實故事 004 [比爾．布福特] 煉獄廚房食習日記 (2007).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(久周文化) 真實故事 004 [比爾．布福特] 煉獄廚房食習日記 (2007).png" width="100" height="150" />|
 |(九歌出版社) 九歌文庫 962 [朱少麟] 傷心咖啡店之歌 (1996).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(九歌出版社) 九歌文庫 962 [朱少麟] 傷心咖啡店之歌 (1996).png" width="100" height="150" />|
 |(五南圖書) 博雅文庫 112 [盧昌海] 黎曼猜想漫談 (2015).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(五南圖書) 博雅文庫 112 [盧昌海] 黎曼猜想漫談 (2015).png" width="100" height="150" />|
 |(亞太政治哲學文化) 袁紅冰作品 19 [袁紅冰、安樂業] 殺佛：十世班禪大師蒙難真相 (2013).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(亞太政治哲學文化) 袁紅冰作品 19 [袁紅冰、安樂業] 殺佛：十世班禪大師蒙難真相 (2013).png" width="100" height="150" />|
@@ -125,6 +133,7 @@
 |(元氣健康) 心靈勵志系列 01 [高胡佩蓉] 折不斷的蘆葦 (2008).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(元氣健康) 心靈勵志系列 01 [高胡佩蓉] 折不斷的蘆葦 (2008).png" width="100" height="150" />|
 |(元麓書社) 青少年文學 18 [小泉八雲] 日本怪談 (2009).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(元麓書社) 青少年文學 18 [小泉八雲] 日本怪談 (2009).png" width="100" height="150" />|
 |(先覺出版) 商戰系列 031 [成君憶] 水煮三國 (2004).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(先覺出版) 商戰系列 031 [成君憶] 水煮三國 (2004).png" width="100" height="150" />|
+|(先覺出版) 商戰系列 043 [岡本吏郎] 模仿行銷 (2006).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(先覺出版) 商戰系列 043 [岡本吏郎] 模仿行銷 (2006).png" width="100" height="150" />|
 |(先覺出版) 商戰系列 138 [永井孝尚] 一杯咖啡的商業啟示：從最飽和的市場，掌握獲利與創新的秘密 (2015).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(先覺出版) 商戰系列 138 [永井孝尚] 一杯咖啡的商業啟示：從最飽和的市場，掌握獲利與創新的秘密 (2015).png" width="100" height="150" />|
 |(先覺出版) 社會觀察 030 [劉必榮] 世界真的變了！ - 10個你必須知道的未來.png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(先覺出版) 社會觀察 030 [劉必榮] 世界真的變了！ - 10個你必須知道的未來.png" width="100" height="150" />|
 |(先覺出版) 社會觀察 030 [劉必榮] 世界真的變了！：10個你必須知道的未來 (2009).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(先覺出版) 社會觀察 030 [劉必榮] 世界真的變了！：10個你必須知道的未來 (2009).png" width="100" height="150" />|
@@ -185,6 +194,7 @@
 |(商周出版) [艾力克斯．史東] 騙倒胡迪尼 - 一個哈佛魔術師的幕後告白 (2012).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(商周出版) [艾力克斯．史東] 騙倒胡迪尼 - 一個哈佛魔術師的幕後告白 (2012).png" width="100" height="150" />|
 |(商周出版) [艾力克斯．史東] 騙倒胡迪尼：一個哈佛魔術師的幕後告白 (2012).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(商周出版) [艾力克斯．史東] 騙倒胡迪尼：一個哈佛魔術師的幕後告白 (2012).png" width="100" height="150" />|
 |(商周出版) BO0241 [瑪麗．皮隆] 貪婪遊戲：隱藏在大富翁背後的壟斷、陰謀、謊言與真相 (2016).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(商周出版) BO0241 [瑪麗．皮隆] 貪婪遊戲：隱藏在大富翁背後的壟斷、陰謀、謊言與真相 (2016).png" width="100" height="150" />|
+|(商周出版) iFiction 21 [喬納森．崔格爾] 男孩A (2009).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(商周出版) iFiction 21 [喬納森．崔格爾] 男孩A (2009).png" width="100" height="150" />|
 |(商周出版) ViewPoint 70 [王唯工] 河圖洛書新解：以科學框架取代陰陽五行，找回中國人的創新智慧 (2013).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(商周出版) ViewPoint 70 [王唯工] 河圖洛書新解：以科學框架取代陰陽五行，找回中國人的創新智慧 (2013).png" width="100" height="150" />|
 |(商周出版) 全腦學習系列 03 [米山公啟] 筆記成功術：升級你的大腦創意與效率 (2007).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(商周出版) 全腦學習系列 03 [米山公啟] 筆記成功術：升級你的大腦創意與效率 (2007).png" width="100" height="150" />|
 |(商周出版) 商周經典名著 01 [珍．奧斯汀] 傲慢與偏見 (2005).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(商周出版) 商周經典名著 01 [珍．奧斯汀] 傲慢與偏見 (2005).png" width="100" height="150" />|
@@ -258,6 +268,7 @@
 |(大塊文化) from 22 [保羅．戴維斯] 如何建造時光機 (2004).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(大塊文化) from 22 [保羅．戴維斯] 如何建造時光機 (2004).png" width="100" height="150" />|
 |(大塊文化) from 51 [納西姆．尼可拉斯．塔雷伯] 黑天鵝效應 (2008).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(大塊文化) from 51 [納西姆．尼可拉斯．塔雷伯] 黑天鵝效應 (2008).png" width="100" height="150" />|
 |(大塊文化) from 54 [柯萊恩] 生命的時間學 (2008).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(大塊文化) from 54 [柯萊恩] 生命的時間學 (2008).png" width="100" height="150" />|
+|(大塊文化) from 83 [亞當．藍辛斯基] 蘋果內幕：後賈伯斯時代，蘋果還能紅多久？ (2012).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(大塊文化) from 83 [亞當．藍辛斯基] 蘋果內幕：後賈伯斯時代，蘋果還能紅多久？ (2012).png" width="100" height="150" />|
 |(大塊文化) mark 08 [米奇．艾爾邦] 最後14堂星期二的課 (1997).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(大塊文化) mark 08 [米奇．艾爾邦] 最後14堂星期二的課 (1997).png" width="100" height="150" />|
 |(大塊文化) mark 09 [凱瑞．穆里斯] 迷幻藥，外星人，還有一個化學家 (1999).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(大塊文化) mark 09 [凱瑞．穆里斯] 迷幻藥，外星人，還有一個化學家 (1999).png" width="100" height="150" />|
 |(大塊文化) mark 48 [米奇．艾爾邦] 在天堂遇見的五個人 (2004).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(大塊文化) mark 48 [米奇．艾爾邦] 在天堂遇見的五個人 (2004).png" width="100" height="150" />|
@@ -338,6 +349,7 @@
 |(天下文化) 財經企管 192 [邱顯比] 基金理財的六堂課 (2005).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(天下文化) 財經企管 192 [邱顯比] 基金理財的六堂課 (2005).png" width="100" height="150" />|
 |(天下文化) 財經企管 206 [張明正、陳怡蓁] @趨勢 (1999).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(天下文化) 財經企管 206 [張明正、陳怡蓁] @趨勢 (1999).png" width="100" height="150" />|
 |(天下文化) 財經企管 316 [金偉燦、莫伯尼] 藍海策略：開創無人競爭的市場 (2005).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(天下文化) 財經企管 316 [金偉燦、莫伯尼] 藍海策略：開創無人競爭的市場 (2005).png" width="100" height="150" />|
+|(天下文化) 財經企管 352 [戴文波特] 思考型工作者 (2006).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(天下文化) 財經企管 352 [戴文波特] 思考型工作者 (2006).png" width="100" height="150" />|
 |(天下文化) 財經企管 359 [前田約翰] 簡單的法則 (2007).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(天下文化) 財經企管 359 [前田約翰] 簡單的法則 (2007).png" width="100" height="150" />|
 |(天下文化) 財經企管 484 [克里斯汀生、歐沃斯、狄倫] 你要如何衡量你的人生？：哈佛商學院最重要的一堂課 (2012).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(天下文化) 財經企管 484 [克里斯汀生、歐沃斯、狄倫] 你要如何衡量你的人生？：哈佛商學院最重要的一堂課 (2012).png" width="100" height="150" />|
 |(天下文化) 財經企管 517 [夏蘭] 大移轉 - 全球經濟板塊改變，企業如何應變？ (2013).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(天下文化) 財經企管 517 [夏蘭] 大移轉 - 全球經濟板塊改變，企業如何應變？ (2013).png" width="100" height="150" />|
@@ -379,6 +391,7 @@
 |(寰宇出版) 寰宇科學 4 [Dana Desonie] 宇宙碰撞 (1998).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(寰宇出版) 寰宇科學 4 [Dana Desonie] 宇宙碰撞 (1998).png" width="100" height="150" />|
 |(寰宇出版) 寰宇科學 7 [Rob DeSalle、David Lindley] 顛覆侏羅紀公園 (1998).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(寰宇出版) 寰宇科學 7 [Rob DeSalle、David Lindley] 顛覆侏羅紀公園 (1998).png" width="100" height="150" />|
 |(寰宇出版) 寰宇財經 175 [Philip L. Carret] 投機的藝術 (2002).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(寰宇出版) 寰宇財經 175 [Philip L. Carret] 投機的藝術 (2002).png" width="100" height="150" />|
+|(寶瓶文化) Island 102 [黃信恩] 游牧醫師 (2009).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(寶瓶文化) Island 102 [黃信恩] 游牧醫師 (2009).png" width="100" height="150" />|
 |(寶瓶文化) Vision 029 [洪志鵬] 老鼠起舞，大象當心 (2004).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(寶瓶文化) Vision 029 [洪志鵬] 老鼠起舞，大象當心 (2004).png" width="100" height="150" />|
 |(寶鼎出版) 視野 72 [菲利浦．巴古斯、安德烈亞斯．馬夸特] 國家偷走的我的錢：貨幣制度是個障眼法，揭露貧富差距、社會不公的真相 (2015).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(寶鼎出版) 視野 72 [菲利浦．巴古斯、安德烈亞斯．馬夸特] 國家偷走的我的錢：貨幣制度是個障眼法，揭露貧富差距、社會不公的真相 (2015).png" width="100" height="150" />|
 |(將門文物出版社) 不可思議書系 [] 世界神話傳說全集.png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(將門文物出版社) 不可思議書系 [] 世界神話傳說全集.png" width="100" height="150" />|
@@ -445,6 +458,7 @@
 |(志文出版社) 新潮文庫 98 [趙震] 名曲的故事 (1974).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(志文出版社) 新潮文庫 98 [趙震] 名曲的故事 (1974).png" width="100" height="150" />|
 |(悅知文化) [Joel Spolsky] 約耳趣談軟體：來自專案管理的現場實務 (2010).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(悅知文化) [Joel Spolsky] 約耳趣談軟體：來自專案管理的現場實務 (2010).png" width="100" height="150" />|
 |(悅知文化) [堀正岳、中牟田洋子、高谷宏記] 傳奇筆記本MOLESKINE：書寫個性人生的61則手帳活用術 (2012).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(悅知文化) [堀正岳、中牟田洋子、高谷宏記] 傳奇筆記本MOLESKINE：書寫個性人生的61則手帳活用術 (2012).png" width="100" height="150" />|
+|(悅知文化) [本田直之] Nomad Life 新游牧生活：為了住在喜歡的地方，從今天起，選擇自由的工作方式吧！ (2013).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(悅知文化) [本田直之] Nomad Life 新游牧生活：為了住在喜歡的地方，從今天起，選擇自由的工作方式吧！ (2013).png" width="100" height="150" />|
 |(悅知文化) [西內啟] 統計學，最強的商業武器：實踐篇 (2015).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(悅知文化) [西內啟] 統計學，最強的商業武器：實踐篇 (2015).png" width="100" height="150" />|
 |(悅知文化) Windows Azure 雲端運算開發實戰.png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(悅知文化) Windows Azure 雲端運算開發實戰.png" width="100" height="150" />|
 |(悅知文化) 笑談軟體工程 - 敏捷開發法的逆襲 (2012).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(悅知文化) 笑談軟體工程 - 敏捷開發法的逆襲 (2012).png" width="100" height="150" />|
@@ -482,10 +496,12 @@
 |(方智出版社) 方智叢書 148 [朗達．拜恩] The Secret 秘密 (2007).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(方智出版社) 方智叢書 148 [朗達．拜恩] The Secret 秘密 (2007).png" width="100" height="150" />|
 |(方智出版社) 方智叢書 191 [史威登堡研究會] 通行靈界的科學家：史威登堡獻給世人最偉大的禮物 (2010).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(方智出版社) 方智叢書 191 [史威登堡研究會] 通行靈界的科學家：史威登堡獻給世人最偉大的禮物 (2010).png" width="100" height="150" />|
 |(方智出版社) 方智叢書 194 [艾力克－埃馬紐埃爾．史密特] 我看到你的無限：當相撲大師遇見叛逆少年 (2010).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(方智出版社) 方智叢書 194 [艾力克－埃馬紐埃爾．史密特] 我看到你的無限：當相撲大師遇見叛逆少年 (2010).png" width="100" height="150" />|
+|(方智出版社) 方智叢書 199 [力克．胡哲] 人生不設限：我那好得不像話的生命體驗 (2010).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(方智出版社) 方智叢書 199 [力克．胡哲] 人生不設限：我那好得不像話的生命體驗 (2010).png" width="100" height="150" />|
 |(方智出版社) 生死學 05 [小田晉] 生與死的深層心理 (1998).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(方智出版社) 生死學 05 [小田晉] 生與死的深層心理 (1998).png" width="100" height="150" />|
 |(方智出版社) 生涯智庫 50 [馬克．桑布恩] UPGRADE! 升級 (2005).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(方智出版社) 生涯智庫 50 [馬克．桑布恩] UPGRADE! 升級 (2005).png" width="100" height="150" />|
 |(日出出版) 翻玩古典 04 [白取春彥] 好語錄的安慰：超譯聖經、哲學家、論語、禪、釋迦、般若心經的話，東西方思想先修課。 (2014).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(日出出版) 翻玩古典 04 [白取春彥] 好語錄的安慰：超譯聖經、哲學家、論語、禪、釋迦、般若心經的話，東西方思想先修課。 (2014).png" width="100" height="150" />|
 |(早安財經文化) 早安財經講堂 38 [Serge Michel、Michel Beuret、Paolo Woods] 黑暗大布局：中國的非洲經濟版圖 (2009).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(早安財經文化) 早安財經講堂 38 [Serge Michel、Michel Beuret、Paolo Woods] 黑暗大布局：中國的非洲經濟版圖 (2009).png" width="100" height="150" />|
+|(早安財經文化) 早安財經講堂 54 [約拿．史丹納柏] IKEA的真相：藏在沙發、蠟燭與馬桶刷背後的祕密 (2012).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(早安財經文化) 早安財經講堂 54 [約拿．史丹納柏] IKEA的真相：藏在沙發、蠟燭與馬桶刷背後的祕密 (2012).png" width="100" height="150" />|
 |(早安財經文化) 生涯新智慧 30 [葛瑞琴．魯賓] 過得還不錯的一年：我的快樂生活提案 (2012).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(早安財經文化) 生涯新智慧 30 [葛瑞琴．魯賓] 過得還不錯的一年：我的快樂生活提案 (2012).png" width="100" height="150" />|
 |(旭屋文化) 智慧大學 02 [榎本博明] 「超」人際關係活用法 (1997).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(旭屋文化) 智慧大學 02 [榎本博明] 「超」人際關係活用法 (1997).png" width="100" height="150" />|
 |(明天國際) 解開驚奇密碼：改變歷史與科學的大事件 (2006).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(明天國際) 解開驚奇密碼：改變歷史與科學的大事件 (2006).png" width="100" height="150" />|
@@ -580,6 +596,7 @@
 |(木馬文化) 類型閱讀 02 [高見広春] 大逃殺 (下) (2005).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(木馬文化) 類型閱讀 02 [高見広春] 大逃殺 (下) (2005).png" width="100" height="150" />|
 |(朵琳) 黃天仁的美女攝影祕訣大公開：初階篇.png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(朵琳) 黃天仁的美女攝影祕訣大公開：初階篇.png" width="100" height="150" />|
 |(朵琳) 黃天仁的美女攝影進階：我的第一台單眼相機.png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(朵琳) 黃天仁的美女攝影進階：我的第一台單眼相機.png" width="100" height="150" />|
+|(机械工业出版社) 深入理解机器学习：从原理到算法 (2017).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(机械工业出版社) 深入理解机器学习：从原理到算法 (2017).png" width="100" height="150" />|
 |(李茲文化) [羅賓．夏瑪] 死時誰為你哭泣：101則以終為始得人生智慧 (2015).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(李茲文化) [羅賓．夏瑪] 死時誰為你哭泣：101則以終為始得人生智慧 (2015).png" width="100" height="150" />|
 |(東大圖書) 生死學叢書 [品川嘉也、松田裕之] 死亡的科學：生物壽命如何決定 (1997).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(東大圖書) 生死學叢書 [品川嘉也、松田裕之] 死亡的科學：生物壽命如何決定 (1997).png" width="100" height="150" />|
 |(東森電視) ETTV 4 [東森電視] 生活智慧王 3 (2003).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(東森電視) ETTV 4 [東森電視] 生活智慧王 3 (2003).png" width="100" height="150" />|
@@ -614,6 +631,7 @@
 |(水靈文創) THEATER 010 [麥可．道布斯] 紙牌屋3：墓誌銘 (2016).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(水靈文創) THEATER 010 [麥可．道布斯] 紙牌屋3：墓誌銘 (2016).png" width="100" height="150" />|
 |(洪範書店) 洪範文學叢書 37 [張系國] 棋王 (1978).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(洪範書店) 洪範文學叢書 37 [張系國] 棋王 (1978).png" width="100" height="150" />|
 |(海頌文化) 人文視野 02 [方浩] 濱海的小鎮 (1999).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(海頌文化) 人文視野 02 [方浩] 濱海的小鎮 (1999).png" width="100" height="150" />|
+|(海鴿文化) 成功講座 140 [陳放、武力] 創意的背後一定有方法：「天衣無縫」的抄襲，「青出於藍」的模仿！ (2008).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(海鴿文化) 成功講座 140 [陳放、武力] 創意的背後一定有方法：「天衣無縫」的抄襲，「青出於藍」的模仿！ (2008).png" width="100" height="150" />|
 |(源成文化) [Edward Clodd] 從野蠻到文明的歷程 (1980).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(源成文化) [Edward Clodd] 從野蠻到文明的歷程 (1980).png" width="100" height="150" />|
 |(漢欣文化) 中國掌故叢書 55 [劉春平、秦訓習] 歷代神怪小說大觀——鬼趣 (1994).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(漢欣文化) 中國掌故叢書 55 [劉春平、秦訓習] 歷代神怪小說大觀——鬼趣 (1994).png" width="100" height="150" />|
 |(漢湘文化) 趣味攝影輕鬆上手：相機基本知識特別收集 .png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(漢湘文化) 趣味攝影輕鬆上手：相機基本知識特別收集 .png" width="100" height="150" />|
@@ -772,6 +790,7 @@
 |(聯經出版) 聯經文庫 [霍華．古鐸] 音樂大歷史：從巴比倫到披頭四 (2015).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(聯經出版) 聯經文庫 [霍華．古鐸] 音樂大歷史：從巴比倫到披頭四 (2015).png" width="100" height="150" />|
 |(胡桃木文化) 綠色胡桃 18 [尼可拉斯．魏德] 化石拼圖 (2004).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(胡桃木文化) 綠色胡桃 18 [尼可拉斯．魏德] 化石拼圖 (2004).png" width="100" height="150" />|
 |(臉譜出版) 一本書 06 [安東尼．伯尼斯] 發條橘子 (2003).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(臉譜出版) 一本書 06 [安東尼．伯尼斯] 發條橘子 (2003).png" width="100" height="150" />|
+|(臉譜出版) 企劃叢書 FP2190 [利安德．卡尼] 賈伯斯在想什麼？：從蘋果到皮克斯，他的創意管理與經營哲學 (2008).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(臉譜出版) 企劃叢書 FP2190 [利安德．卡尼] 賈伯斯在想什麼？：從蘋果到皮克斯，他的創意管理與經營哲學 (2008).png" width="100" height="150" />|
 |(臉譜出版) 企畫叢書 FP2265 [凱特．凱利] 掌控全球市場的隱形操盤手：8家關鍵企業×39位神秘人物，讓你了解原物料商品王國的真面目 (2014).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(臉譜出版) 企畫叢書 FP2265 [凱特．凱利] 掌控全球市場的隱形操盤手：8家關鍵企業×39位神秘人物，讓你了解原物料商品王國的真面目 (2014).png" width="100" height="150" />|
 |(臉譜出版) 科普漫遊 FQ1038 [路易斯．達奈爾] 最後一個知識人：末日之後，擁有重建文明社會的器物、技術與知識原理 (2016).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(臉譜出版) 科普漫遊 FQ1038 [路易斯．達奈爾] 最後一個知識人：末日之後，擁有重建文明社會的器物、技術與知識原理 (2016).png" width="100" height="150" />|
 |(臉譜出版) 科普漫遊 FQ1040 [唐納．波瑟羅] 25種關鍵化石看生命的故事：化石獵人與35億年的演化奇蹟 (2016).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(臉譜出版) 科普漫遊 FQ1040 [唐納．波瑟羅] 25種關鍵化石看生命的故事：化石獵人與35億年的演化奇蹟 (2016).png" width="100" height="150" />|
@@ -813,6 +832,7 @@
 |(菁品文化) 暢行天下的說話厚黑術.png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(菁品文化) 暢行天下的說話厚黑術.png" width="100" height="150" />|
 |(華聯出版社) [董烱明] 電動遙控模型製作 (1983).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(華聯出版社) [董烱明] 電動遙控模型製作 (1983).png" width="100" height="150" />|
 |(蔚藍文化) [賴慈芸] 翻譯偵探事務所：偽譯解密！台灣戒嚴時期翻譯怪象大公開 (2017).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(蔚藍文化) [賴慈芸] 翻譯偵探事務所：偽譯解密！台灣戒嚴時期翻譯怪象大公開 (2017).png" width="100" height="150" />|
+|(藍鯨出版) Sketch 01 [王受之] 王受之講述——產品的故事 (2005).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(藍鯨出版) Sketch 01 [王受之] 王受之講述——產品的故事 (2005).png" width="100" height="150" />|
 |(藝文印書館) [史蒂芬．霍金] 時間簡史 (1989).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(藝文印書館) [史蒂芬．霍金] 時間簡史 (1989).png" width="100" height="150" />|
 |(藝文印書館) [史蒂芬．霍金] 黑洞與嬰兒宇宙～以及相關文章 (1995).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(藝文印書館) [史蒂芬．霍金] 黑洞與嬰兒宇宙～以及相關文章 (1995).png" width="100" height="150" />|
 |(藝文印書館) 科學新知 六 [邁克爾．懷特、約翰．葛瑞本] 霍金傳 (1994).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(藝文印書館) 科學新知 六 [邁克爾．懷特、約翰．葛瑞本] 霍金傳 (1994).png" width="100" height="150" />|
@@ -989,6 +1009,7 @@
 |(高寶書版) Fantasy系列 046 [喬治．馬汀] 冰與火之歌 第三部：劍刃風暴 (上) (2013).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(高寶書版) Fantasy系列 046 [喬治．馬汀] 冰與火之歌 第三部：劍刃風暴 (上) (2013).png" width="100" height="150" />|
 |(高寶書版) Fantasy系列 047 [喬治．馬汀] 冰與火之歌 第三部：劍刃風暴 (中) (2013).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(高寶書版) Fantasy系列 047 [喬治．馬汀] 冰與火之歌 第三部：劍刃風暴 (中) (2013).png" width="100" height="150" />|
 |(高寶書版) Fantasy系列 048 [喬治．馬汀] 冰與火之歌 第三部：劍刃風暴 (下) (2013).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(高寶書版) Fantasy系列 048 [喬治．馬汀] 冰與火之歌 第三部：劍刃風暴 (下) (2013).png" width="100" height="150" />|
+|(高寶書版) Rich 致富館 164 [山下貴史] 你想不到！商品大賣的理由 (2008).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(高寶書版) Rich 致富館 164 [山下貴史] 你想不到！商品大賣的理由 (2008).png" width="100" height="150" />|
 |(高寶書版) 文學良品 FL013 [于東輝] 敲響十億零一次的駝鈴 (1999).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(高寶書版) 文學良品 FL013 [于東輝] 敲響十億零一次的駝鈴 (1999).png" width="100" height="150" />|
 |(高寶書版) 新視野 New Window 154 [Shawn Chen] 不為人知的都市傳說：神秘暗網、末日教派、恐怖怪談 (2016).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(高寶書版) 新視野 New Window 154 [Shawn Chen] 不為人知的都市傳說：神秘暗網、末日教派、恐怖怪談 (2016).png" width="100" height="150" />|
 |(高寶書版) 新視野 New Window 156 [Shawn Chen] 不為人知的都市傳說 2：暗網禁片、亡靈世界、駭人實驗，真實存在的暗黑計畫 (2016).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(高寶書版) 新視野 New Window 156 [Shawn Chen] 不為人知的都市傳說 2：暗網禁片、亡靈世界、駭人實驗，真實存在的暗黑計畫 (2016).png" width="100" height="150" />|
@@ -1017,6 +1038,7 @@
 |(麥田出版) 糜小說 04 [約翰．康納利] 失物之書 (2007).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(麥田出版) 糜小說 04 [約翰．康納利] 失物之書 (2007).png" width="100" height="150" />|
 |(麥田出版) 純智歷史名著譯叢 3 [史景遷] 婦人王氏之死 (2001).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(麥田出版) 純智歷史名著譯叢 3 [史景遷] 婦人王氏之死 (2001).png" width="100" height="150" />|
 |(麥田出版) 麥田人文 55 [朋尼維茲] 布赫迪厄社會學的第一課 (2002).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(麥田出版) 麥田人文 55 [朋尼維茲] 布赫迪厄社會學的第一課 (2002).png" width="100" height="150" />|
+|(麥田出版) 麥田叢書 45 [吳錫德] 法國製造：法國文化關鍵詞100 (2006).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(麥田出版) 麥田叢書 45 [吳錫德] 法國製造：法國文化關鍵詞100 (2006).png" width="100" height="150" />|
 |(麥田出版) 麥田叢書 88 [安西水丸] 小小城下町 (2016).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(麥田出版) 麥田叢書 88 [安西水丸] 小小城下町 (2016).png" width="100" height="150" />|
 |(麥田出版) 麥田文學 265 [琹涵] 日日好話：古典智慧給現代人的生活格言 (2013).png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(麥田出版) 麥田文學 265 [琹涵] 日日好話：古典智慧給現代人的生活格言 (2013).png" width="100" height="150" />|
 |(黎斯藝術) 羅浮宮七個世紀的繪畫作品.png|<img src="https://raw.githubusercontent.com/angelmic/eBooks/master/_Covers/(黎斯藝術) 羅浮宮七個世紀的繪畫作品.png" width="100" height="150" />|
